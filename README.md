@@ -5,7 +5,8 @@
 <br/>  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satou-haruka-37&show_icons=true&count_private=true&hide_border=true&theme=onedark" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=satou-haruka-37&show_icons=true&count_private=true&hide_border=true&theme=onedark" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satou-haruka-37&layout=compact&show_icons=true&hide_border=true&theme=onedark" />
 </div>  
 
 <br/>
