@@ -48,5 +48,5 @@
 <br />
 
 <div align="center">
-  <a href="https://tagffy.com/lemonade_37/" target="_blank">🕊️ Connect with me ✉️</a>
+  <a href="https://bento.me/lemonade37" target="_blank">🕊️ Connect with me ✉️</a>
 </div>
