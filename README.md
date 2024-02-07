@@ -1,12 +1,12 @@
-### <div align="center">Hi there 👋</div>  
+### <div align="center">Hi there 👋🏻</div>  
 
   <div align="center">Born in 1996 / Born and currently resides in Hokkaido🐏</div>
   
 <br/>  
 
 <div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=satou-haruka-37&show_icons=true&count_private=true&hide_border=true&theme=onedark" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satou-haruka-37&layout=compact&show_icons=true&hide_border=true&theme=onedark" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=satou-haruka-37&show_icons=true&count_private=true&hide_border=true&theme=nord" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satou-haruka-37&layout=compact&show_icons=true&hide_border=true&theme=nord" />
 </div>  
 
 <br/>
@@ -49,5 +49,5 @@
 <br />
 
 <div align="center">
-  <a href="https://tagffy.com/lemonade_37/" target="_blank">😊 Connect with me ✉️</a>
+  <a href="https://tagffy.com/lemonade_37/" target="_blank">🕊️ Connect with me ✉️</a>
 </div>
